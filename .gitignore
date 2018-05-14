@@ -5,3 +5,8 @@ saved_models/weights.best.from_scratch.hdf5
 saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
 bottleneck_features/DogVGG16Data.npz
+.idea
+dogImages.zip
+DogVGG16Data.npz
+lfw.zip
+bottleneck_features
